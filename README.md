@@ -1,9 +1,27 @@
 # Ministry AI Governance Assistant
 
+![Project Status](https://img.shields.io/badge/status-in%20development-yellow)
+![Documentation](https://img.shields.io/badge/docs-comprehensive-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![Governance](https://img.shields.io/badge/governance-ready-success)
+
 A governance-ready RAG system helping church leaders adopt AI ethically and safely.
 
 **Project Status:** Foundation Phase (Week 1)  
 **Built by:** Francis | MS AI/ML | Governance-Aware Applied AI Engineer
+
+---
+
+## Quick Links
+
+- [Architecture Documentation](ARCHITECTURE.md)
+- [Governance Pack](docs/governance-pack/)
+- [System Card](docs/governance-pack/SYSTEM_CARD.md)
+- [Data Policy](docs/governance-pack/DATA_POLICY.md)
+- [Risk Checklist](docs/governance-pack/RISK_CHECKLIST.md)
+- [Test Cases](eval/test_prompts.md)
+- [Source List](data/sources/SOURCE_LIST.md)
 
 ---
 
