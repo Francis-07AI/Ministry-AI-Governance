@@ -1,0 +1,33 @@
+Anthropic Responsible Scaling Policy
+
+Anthropic's Responsible Scaling Policy (RSP) provides a framework for safely developing and deploying AI systems. The policy is based on AI Safety Levels (ASL), which categorize systems by their capability and risk level.
+
+Key Principles:
+- Graduated safeguards that scale with AI capabilities
+- Testing protocols before deployment
+- Security controls proportional to risk
+- Regular capability assessments
+- Deployment gates for high-risk systems
+
+ASL Framework:
+ASL-1: Minimal risk systems with basic safeguards
+ASL-2: Current generation systems with standard protections
+ASL-3: Advanced systems requiring enhanced security and testing
+ASL-4: Highly capable systems with maximum safeguards
+
+Implementation Requirements:
+- Comprehensive testing before deployment
+- Security measures for model weights
+- Deployment controls and monitoring
+- Regular safety evaluations
+- Incident response procedures
+
+For organizations adopting AI:
+- Assess capability level of AI systems
+- Implement appropriate safeguards
+- Monitor for misuse or unexpected behavior
+- Maintain audit trails
+- Update controls as systems improve
+
+Source: Anthropic Responsible Scaling Policy
+URL: https://www.anthropic.com/news/anthropics-responsible-scaling-policy

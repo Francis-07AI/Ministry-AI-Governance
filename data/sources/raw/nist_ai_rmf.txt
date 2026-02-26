@@ -1,0 +1,42 @@
+NIST AI Risk Management Framework
+
+The National Institute of Standards and Technology AI Risk Management Framework (AI RMF) provides guidance for managing risks associated with artificial intelligence systems.
+
+Framework Structure:
+The AI RMF is organized around four core functions:
+- Govern: Cultivate organizational culture and processes
+- Map: Establish context for AI risks
+- Measure: Assess and analyze AI risks
+- Manage: Prioritize and respond to AI risks
+
+Key Principles:
+- Valid and reliable systems
+- Safe and secure operations
+- Accountable and transparent
+- Explainable and interpretable
+- Privacy enhanced
+- Fair with harmful bias managed
+
+Risk Categories:
+- Technical risks: performance failures, security vulnerabilities
+- Societal risks: bias, discrimination, privacy violations
+- Operational risks: deployment issues, monitoring gaps
+- Reputational risks: trust erosion, stakeholder concerns
+
+Implementation Guidance:
+- Conduct risk assessments before deployment
+- Document AI system capabilities and limitations
+- Establish clear governance structures
+- Monitor systems continuously
+- Maintain audit trails and documentation
+- Update risk assessments regularly
+
+For Organizations:
+- Map AI use cases to risk categories
+- Implement appropriate controls
+- Train staff on AI risks and mitigation
+- Establish incident response procedures
+- Review and update policies regularly
+
+Source: NIST AI Risk Management Framework
+URL: https://www.nist.gov/itl/ai-risk-management-framework

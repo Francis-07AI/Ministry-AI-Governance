@@ -1,0 +1,70 @@
+Church AI Adoption Best Practices
+
+Guidance for churches and ministries on adopting AI tools ethically and effectively.
+
+Core Principles for Ministry AI Use:
+- Maintain authentic human relationships
+- Preserve pastoral discernment and calling
+- Protect privacy and confidentiality
+- Ensure transparency with congregation
+- Avoid replacing human ministry with AI
+- Consider impact on vulnerable populations
+
+Appropriate AI Use Cases:
+- Administrative task automation
+- Content research and preparation assistance
+- Communication scheduling and organization
+- Data analysis for strategic planning
+- Translation and accessibility tools
+- Resource discovery and curation
+
+Inappropriate AI Use Cases:
+- Pastoral counseling or spiritual direction
+- Sermon generation without human authorship
+- Automated prayer or liturgy creation
+- Member profiling for manipulation
+- Decision-making without human oversight
+- Child-related applications without safeguards
+
+Privacy and Data Protection:
+- Never input private member information into AI tools
+- Obtain consent before using personal data
+- Understand data retention policies of AI vendors
+- Implement access controls and permissions
+- Maintain separate systems for sensitive data
+- Regular privacy audits and reviews
+
+Child Safety Considerations:
+- Two-person rule applies to AI interactions with minors
+- Background checks for staff using AI tools with youth
+- Parental consent for any AI applications involving children
+- Age-appropriate content filters and monitoring
+- No biometric data collection from minors
+- Regular safety training for volunteers
+
+Implementation Guidelines:
+- Start with low-risk administrative tasks
+- Pilot programs before full deployment
+- Provide staff training on AI tools and ethics
+- Establish clear usage policies and boundaries
+- Monitor for unintended consequences
+- Regular review and adjustment of practices
+
+Vendor Evaluation Questions:
+- How is our data used and stored?
+- What are the privacy and security measures?
+- Can we delete our data completely?
+- What happens to data if we stop using the service?
+- Are there age restrictions or child safety features?
+- What support and training is available?
+
+Accountability and Oversight:
+- Designate responsible person for AI governance
+- Regular reporting to church leadership
+- Transparent communication with congregation
+- Feedback mechanisms for concerns
+- Document all AI use cases and decisions
+- Annual review of AI policies and practices
+
+Source: Church Technology Best Practices
+URL: Various denominational technology guidelines
